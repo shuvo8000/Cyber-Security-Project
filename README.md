@@ -383,9 +383,10 @@ Unauthorized penetration testing, credential attacks, exploitation, persistence,
 
 **Shuvo Biswas**
 
-Jr. Penetration Testing Engineer: Hands-On  
-EDGE Programme — CADS001
-instructor: Md. Imran Chowdhuri
+Applied Penetration Testing Engineer: Hands-On Experience
+EDGE Programme 
+Section— CADS001
+instructor: Md. Imran Chowdhury
 
 ---
 
